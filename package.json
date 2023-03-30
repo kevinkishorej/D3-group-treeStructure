@@ -1,0 +1,19 @@
+{
+  "name": "D3-group-treeStructure",
+  "version": "1.0.0",
+  "description": "\"# D3-group-treeStructure\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkishorej/D3-group-treeStructure.git"
+  },
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkishorej/D3-group-treeStructure/issues"
+  },
+  "homepage": "https://github.com/kevinkishorej/D3-group-treeStructure#readme"
+}
