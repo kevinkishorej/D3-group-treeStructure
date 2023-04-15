@@ -1,3 +1,5 @@
-function groupTreeStructure(){
-    console.log('groupTreeStructure')
+function groupTreeStructure(data){
+    return data === 'tree'
 }
+
+module.exports = groupTreeStructure;
