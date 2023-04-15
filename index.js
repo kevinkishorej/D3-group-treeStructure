@@ -1,5 +1,5 @@
 function groupTreeStructure(data){
-    return data === 'tree'
+    return data === 'tree1'
 }
 
 module.exports = groupTreeStructure;
